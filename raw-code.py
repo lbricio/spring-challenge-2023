@@ -79,10 +79,8 @@ def render_route(cells, path_to_render, base_indexes):
                     path = bfs(cells, previous_paths[i][-1], end_index)
             else:
                 path = bfs(cells, start_index, end_index)
-            
             if path:
                 paths.append(path)
-
         if paths:
             shortest_path = min(paths, key=len)
             previous_paths = [shortest_path] * len(start_indexes)
@@ -90,7 +88,6 @@ def render_route(cells, path_to_render, base_indexes):
                 cells[cell_index].resources -= 1
         else:
             previous_paths = [[]] * len(start_indexes)
-    
     return cells
 
 def expand_path(cells, path, end_index):
