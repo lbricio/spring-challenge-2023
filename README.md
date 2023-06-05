@@ -16,7 +16,6 @@ fui aprimorando o cálculo de como verificar se valeria a pena extender o percus
 o resultado acabou sendo algo simples: verificar se a distância até esse novo ponto é menor ou igual a distância inicial até a base
 - o problema dessa abordagem de limitar a busca é que quando o nível ia subindo o algoritmo gerava caminhos completamente aleatórios,
 por isso que nas minhas próximas abordagens tentei controla o caminho bloco por bloco para evitar desperdícios
-- nas primeiras versões estava usando recursão
 
 - a minha abordagem mais atualizada eu tentei controlar a geraçao dos caminhos camadas por camada, começando dos blocos vizinhos da base,
 e em seguida vizinho por vizinho
