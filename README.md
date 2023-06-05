@@ -32,7 +32,7 @@ aproveitar parte de uma rota já existente e criar ramos
 
 - geração da rota: à medida que os nodes se afastavam da base ficava mais difícil de calcular um caminho mais otimizado, e muitas vezes meu BFS
 gerava blocos desncessários gastando recursos atoa
-- algoritmo pacífico: um ponto que observei ao fim da competiçao e que não utilizei era que os algoritmos mais agressivos tendiam a ser melhores,
-pois você pode quebrar causar interferências nas rotas do adversário
-- dificuldade de trabalhar com grupos: muitas vezes meu algoritmo tendia a optar por um recurso que estava mais próximo em vez de percorrer mais para minerar um grupo maior, esse era difícil de resolver porque meu código foi moldado para priorizar justamente o que estava mais próximo
+- algoritmo pacífico: um ponto que observei ao fim da competiçao e que não utilizei: os algoritmos mais agressivos tendiam a ser melhores,
+pois você pode causar interferências nas rotas do adversário, em vez disso sempre optava em minerar mais rápido possível os recursos mais próximos
+- dificuldade em medir recompensas: muitas vezes meu algoritmo tendia a optar por um recurso que estava mais próximo em vez de percorrer mais para minerar um grupo maior, esse era difícil de resolver porque meu código foi moldado para priorizar justamente o que estava mais próximo
  
