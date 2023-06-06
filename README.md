@@ -1,13 +1,12 @@
 # Spring Challenge 2023
 
-<img width="1440" alt="image" src="https://github.com/lbricio/spring-challenge-2023/assets/81334995/4b63fb87-18e0-4e3d-b9ac-d13565050e8e">
-
-
-> **disclaimer:** esse projeto foi feito em contexto de competição em que havia um curto prazo de entrega, então é um código que não segue as melhores práticas e nem tampouco está tão otimizado quanto poderia
+<img width="594" alt="image" src="https://github.com/lbricio/spring-challenge-2023/assets/81334995/60fb31b0-07b9-4da7-ba6d-26accdc5d48a">
 
 ## sobre
-primeira participação em uma competição do CodinGame, foi bem divertido e foi bem útil para praticar Python e alguns conceitos que
+minha primeira participação em uma competição do CodinGame, foi bem divertido e foi bem útil para praticar Python e alguns conceitos que
 ainda não havia tido oportunidade de aplicar antes como BFS e grafos, terminei no top 30% entre 5500 participantes.
+
+> **disclaimer:** esse projeto foi feito em contexto de competição em que havia um curto prazo de entrega, então é um código que não segue as melhores práticas e nem tampouco está tão otimizado quanto poderia
 
 ## estratégias utilizadas
 
@@ -30,6 +29,8 @@ listas das conexões entre os pontos do mapa, e também cada recurso tinha uma c
 uma lista de "pontos para ir" todos os pontos de destino que eu havia calculado para aquele turno e depois de rodar todos os passos algoritmo 
 mandar para uma funçao auxiliar de renderização para fazer algumas otimizações no caminho e imprimir bloco por bloco, inclusive a ideia era tentar 
 aproveitar parte de uma rota já existente e criar ramos
+
+<img width="1440" alt="image" src="https://github.com/lbricio/spring-challenge-2023/assets/81334995/4b63fb87-18e0-4e3d-b9ac-d13565050e8e">
 
 ## pontos a melhorar:
 
