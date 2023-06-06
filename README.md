@@ -2,8 +2,11 @@
 
 <img width="1440" alt="image" src="https://github.com/lbricio/spring-challenge-2023/assets/81334995/4b63fb87-18e0-4e3d-b9ac-d13565050e8e">
 
+
+> **disclaimer:** esse projeto foi feito em contexto de competição em que havia um curto prazo de entrega, então é um código que não segue as melhores práticas e nem tampouco está tão otimizado quanto poderia
+
 ## sobre
-Primeira participação em uma competição do CodinGame, foi bem divertido e foi bem útil para praticar Python e alguns conceitos que
+primeira participação em uma competição do CodinGame, foi bem divertido e foi bem útil para praticar Python e alguns conceitos que
 ainda não havia tido oportunidade de aplicar antes como BFS e grafos, terminei no top 30% entre 5500 participantes.
 
 ## estratégias utilizadas
