@@ -4,7 +4,7 @@
 
 ## sobre
 minha primeira participação em uma competição do CodinGame, foi bem divertido e foi bem útil para praticar Python e alguns conceitos que
-ainda não havia tido oportunidade de aplicar antes como BFS e grafos, terminei no top 30% entre 5500 participantes.
+ainda não havia tido oportunidade de aplicar antes como BFS e grafos, terminei no top 8% entre 19,283 participantes.
 
 > **disclaimer:** esse projeto foi feito em contexto de competição em que havia um curto prazo de entrega, então é um código que não segue as melhores práticas e nem tampouco está tão otimizado quanto poderia
 
