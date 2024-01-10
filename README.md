@@ -7,6 +7,7 @@
 Minha primeira participação em uma competição do CodinGame, foi bem divertido e foi bem útil para praticar python e alguns conceitos que
 ainda não havia tido oportunidade de aplicar antes como BFS e grafos, terminei no top 8% entre 19,283 participantes.
 
+
 ### Estratégias
 
 - um ponto que dificultou bastante é que você não tinha acesso aos blocos como um plano cartesiano, apenas seu índice atual e os vizinhos
@@ -29,7 +30,7 @@ uma lista de "pontos para ir" todos os pontos de destino que eu havia calculado 
 mandar para uma funçao auxiliar de renderização para fazer algumas otimizações no caminho e imprimir bloco por bloco, inclusive a ideia era tentar 
 aproveitar parte de uma rota já existente e criar ramos
 
-## pontos a melhorar:
+### Possíveis melhorias:
 
 - geração da rota: à medida que os nodes se afastavam da base ficava mais difícil de calcular um caminho mais otimizado, e muitas vezes meu BFS
 gerava blocos desncessários gastando recursos atoa
