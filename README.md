@@ -1,19 +1,16 @@
 # Spring Challenge 2023
 
-<img width="594" alt="image" src="https://github.com/lbricio/spring-challenge-2023/assets/81334995/60fb31b0-07b9-4da7-ba6d-26accdc5d48a">
+<img width="1819" alt="image" src="https://github.com/lbricio/spring-challenge-2023/assets/81334995/ffc8bcf4-873a-4910-a5b0-ae48069165fa">
 
-## sobre
-minha primeira participação em uma competição do CodinGame, foi bem divertido e foi bem útil para praticar Python e alguns conceitos que
+
+### Sobre
+Minha primeira participação em uma competição do CodinGame, foi bem divertido e foi bem útil para praticar python e alguns conceitos que
 ainda não havia tido oportunidade de aplicar antes como BFS e grafos, terminei no top 8% entre 19,283 participantes.
 
-<img width="1440" alt="image" src="https://github.com/lbricio/spring-challenge-2023/assets/81334995/4b63fb87-18e0-4e3d-b9ac-d13565050e8e">
+### Estratégias
 
-> **disclaimer:** esse projeto foi feito em contexto de competição em que havia um curto prazo de entrega, então é um código que não segue as melhores práticas e nem tampouco está tão otimizado quanto poderia
-
-## estratégias utilizadas
-
-- um ponto que dificultou bastante é que você não tinha acesso aos blocos como um plano cartesiano, apenas seu índece atual e os vizinhos
-desse índice, que não necessariamente seguem alguma ordem, então sempre é necessário fazer uma busca baseada em trees
+- um ponto que dificultou bastante é que você não tinha acesso aos blocos como um plano cartesiano, apenas seu índice atual e os vizinhos
+desse índice, que não necessariamente seguem alguma ordem, então sempre é necessário fazer uma busca baseada em árvores
 - inicialmente tentei limitar o a busca até os recursos mais próximos à base
 - adicionei uma nova busca quando o caminho chegasse ao seu destino e durante o processo
 fui aprimorando o cálculo de como verificar a rentabilidade em extender o percuso até um rescurso que estava além da pesquisa inicial,
