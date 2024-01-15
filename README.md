@@ -5,7 +5,7 @@
 
 ### Sobre
 - Primeira vez participando em uma competição do CodinGame, foi bem desafiador e muito útil para praticar python e alguns conceitos que
-ainda não havia tido oportunidade de aplicar antes como BFS e grafos, terminei no top 8% entre 19,283 participantes.
+avançados como breadth-first search e grafos, terminei no top 8% entre 19,283 participantes.
 
 
 ### Estratégias
